@@ -1,0 +1,6 @@
+{
+  "name": "StepUp Elite",
+  "description": "Next-generation career ecosystem for internships, entry-level jobs, and freelance projects, complete with AI Career Coach, AI Resume Score, and Recruiter matching tools.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
